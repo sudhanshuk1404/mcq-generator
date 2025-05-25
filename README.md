@@ -57,8 +57,10 @@ venv/Scripts/activate
 pip install
 uvicorn main:app --port 8000
 
+
 ## 🚀 Demo
 
 📽️ Watch the full walkthrough below:
 
 [![Watch Demo](https://img.youtube.com/vi/EH4gLzPuaWY/0.jpg)](https://youtu.be/EH4gLzPuaWY)
+
