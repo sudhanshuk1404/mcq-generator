@@ -36,5 +36,5 @@ EduTranscribe is an AI-powered full-stack web application that allows users to u
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/edutranscribe.git
+git clone (https://github.com/sudhanshuk1404/mcq-generator.git)
 cd edutranscribe
