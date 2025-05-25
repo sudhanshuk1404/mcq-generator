@@ -60,7 +60,6 @@ uvicorn main:app --port 8000
 
 ## 🚀 Demo
 
-📽️ Watch the full walkthrough below:
+[![Watch the demo](https://img.youtube.com/vi/EH4gLzPuaWY/maxresdefault.jpg)](https://youtu.be/EH4gLzPuaWY)
 
-[![Watch Demo](https://img.youtube.com/vi/EH4gLzPuaWY/0.jpg)](https://youtu.be/EH4gLzPuaWY)
 
