@@ -30,6 +30,10 @@ mcq-generator is an AI-powered full-stack web application that allows users to u
 
 
 ---
+## 🚀 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/EH4gLzPuaWY/maxresdefault.jpg)](https://youtu.be/EH4gLzPuaWY)
+
 
 ## 🚀 Setup Instructions
 
@@ -58,9 +62,7 @@ pip install
 uvicorn main:app --port 8000
 
 
-## 🚀 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/EH4gLzPuaWY/maxresdefault.jpg)](https://youtu.be/EH4gLzPuaWY)
 
 
 
